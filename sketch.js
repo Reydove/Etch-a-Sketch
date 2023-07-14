@@ -39,5 +39,5 @@ container.addEventListener('mouseover', handleSquareHover);
 container.addEventListener('mouseout', handleSquareLeave);
 
 createGrid(16);
-
+co
   
